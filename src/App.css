@@ -1,0 +1,54 @@
+.bosh{
+  width: 1121px;
+  height: 1028px;
+  background-image: url(./assets/twitter.svg);
+    background-size: cover;
+  background-position: center;
+}
+.blue{
+  width: 50px;
+  height: 41px;
+}
+.sign{
+  width: 403px;
+  height: 62px;
+  margin-top: 30px;
+}
+.ota{
+  display: flex;
+justify-content: space-between;
+position: relative;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  margin-left: 75px;
+}
+.sign-up{
+width: 750px;
+height: 783px;
+background-color: white;
+border-radius: 10px;
+position: absolute;
+margin-left: -500px;
+padding: 20px;
+}
+input{
+  width: 670px;
+  height: 70px;
+  margin-top: 50px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.next{
+  width: 670px;
+  height: 70px;
+  border-radius: 30px;
+  background-color: rgb(69, 69, 255);
+  color: white;
+  margin-top: 50px;
+}
+.login{
+  width: 759px;
+  height: 794px;
+}
