@@ -14,6 +14,10 @@
   height: 62px;
   margin-top: 30px;
 }
+.qwerty{
+  display: flex;
+  flex-direction: column;
+}
 .ota{
   display: flex;
 justify-content: space-between;
@@ -30,7 +34,8 @@ height: 783px;
 background-color: white;
 border-radius: 10px;
 position: absolute;
-margin-left: -500px;
+/* margin-left: -1000px; */
+/* left: -100px; */
 padding: 20px;
 }
 input{
@@ -51,4 +56,5 @@ input{
 .login{
   width: 759px;
   height: 794px;
+  
 }
